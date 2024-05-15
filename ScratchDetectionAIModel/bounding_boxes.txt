@@ -1,0 +1,17 @@
+Bounding boxes./dataset_images\1.jpg 266 70 187 189
+./dataset_images\10.jpg 76 169 378 194
+./dataset_images\11.jpg 216 72 277 330
+./dataset_images\11.jpg 493 401 7 1
+./dataset_images\11.jpg 221 99 294 305
+./dataset_images\12.jpg 544 108 629 76
+./dataset_images\12.jpg 385 201 661 317
+./dataset_images\12.jpg 360 72 883 717
+./dataset_images\2.jpg 262 143 285 136
+./dataset_images\3.jpg 189 139 323 224
+./dataset_images\360_F_278283428_wi52PwvNQMrZ1lUh0d1lU7J8RQL73whq.jpg 98 127 354 199
+./dataset_images\4.jpg 161 106 217 175
+./dataset_images\5.jpg 414 234 459 353
+./dataset_images\6.jpg 97 121 374 187
+./dataset_images\7.jpg 116 181 747 401
+./dataset_images\8.jpg -14 63 201 124
+./dataset_images\9.jpg 131 120 728 476
